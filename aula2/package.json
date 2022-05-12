@@ -1,0 +1,11 @@
+{
+  "name": "002",
+  "version": "1.0.0",
+  "description": "aula 2 do curso do wndel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
