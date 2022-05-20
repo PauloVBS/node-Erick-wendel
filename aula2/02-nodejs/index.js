@@ -12,7 +12,7 @@ function obterUsuario() {
     // quando sucess -> RESOLV
     return new Promise(function resolvePromise(resolve, reject) {
         setTimeout(function () {
-            // return reject(new Error('DEU RUIM DE VERDADE!'))
+            //return reject(new Error('DEU RUIM DE VERDADE!'))
 
             return resolve({
                 id: 1,
